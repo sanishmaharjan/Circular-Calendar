@@ -1,0 +1,37 @@
+{
+  "name": "circularDatePicker",
+  "version": "1.0.0",
+  "main": [
+    "jquery.circularCalendar.js",
+    "circular.calendar.css"
+  ],
+  "ignore": [
+    "**/*.md",
+    "**/*.html",
+    "bower_components",
+    "node_modules"
+  ],
+  "keywords": [
+    "circularDatePicker",
+    "circularCalendar",
+    "calendar",
+    "date",
+    "datepicker",
+    "picker"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.11.0"
+  },
+  "authors": [
+    {
+      "name": "Sanish Maharjan",
+      "email": "mjsanish@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sanishmaharjan/Circular-Date-Picker/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sanishmaharjan/Circular-Date-Picker.git"
+  }
+}
